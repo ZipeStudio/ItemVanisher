@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "item-vanisher",
+	"version": "${version}",
+	"name": "Item Vanisher",
+	"description": "Client Fabric Mod that allows you to enable/disable render of items on the ground at the toggle of a button.",
+	"authors": [
+		"ZipeStudio"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/item-vanisher/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.zipestudio.itemvanisher.ItemVanisher"
+		],
+		"client": [
+			"me.zipestudio.itemvanisher.client.IVClient"
+		]
+	},
+	"mixins": [
+		"item-vanisher.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

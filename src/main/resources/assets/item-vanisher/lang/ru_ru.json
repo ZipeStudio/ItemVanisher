@@ -1,0 +1,6 @@
+{
+  "itemvanisher.key.toggle": "Переключить Рендеринг",
+  "itemvanisher.text.actionbar.true": "§7Рендеринг предметов на земле §aвключен",
+  "itemvanisher.text.actionbar.false": "§7Рендеринг предметов на земле §cотключен",
+  "modmenu.descriptionTranslation.itemvanisher": "Клиенский Fabric мод, позволяющий отключать/включать рендеринг предметов на земле нажатием одной кнопки."
+}

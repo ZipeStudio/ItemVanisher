@@ -1,0 +1,6 @@
+{
+  "itemvanisher.key.toggle": "Toggle Rendering",
+  "itemvanisher.text.actionbar.true": "§7Render of items on the ground is §aenabled",
+  "itemvanisher.text.actionbar.false": "§7Render of items on the ground is §cdisabled",
+  "modmenu.descriptionTranslation.itemvanisher": "Client Fabric Mod that allows you to disable/enable render of items on the ground at the toggle of a button."
+}
