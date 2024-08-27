@@ -6,7 +6,8 @@ Disables rendering of items on the ground:
 - Item HitBoxes
 - Item Shadows
 
-# Keybindings
 | Keybinding | Default key|
-| ----------- | ----------- |
+| ----------- | ---------- |
 | Toggle Rendering | i |
+
+![showcase](https://cdn.modrinth.com/data/cached_images/a8db9a250e3e92f7b335bc802d25808f94ea827d.png)
