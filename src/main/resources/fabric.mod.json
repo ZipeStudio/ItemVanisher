@@ -8,8 +8,10 @@
 		"ZipeStudio"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"discord": "https://discord.com/users/339471364312530945",
+		"telegram": "https://t.me/zipeleaf",
+		"minecraft_server": "https://discord.gg/ZsR6XuTkTX",
+		"discord_team": "https://discord.gg/XmGF7rkkuY"
 	},
 	"license": "MIT",
 	"icon": "assets/item-vanisher/icon.png",
