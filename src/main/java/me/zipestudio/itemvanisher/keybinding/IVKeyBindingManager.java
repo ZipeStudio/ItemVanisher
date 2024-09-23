@@ -29,7 +29,6 @@ public class IVKeyBindingManager {
                     return;
                 }
 
-
                 IVConfig clientConfig = IVClient.getClientConfig();
                 boolean toggle = !clientConfig.isToggle();
                 clientConfig.setToggle(toggle);

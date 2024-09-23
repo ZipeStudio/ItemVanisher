@@ -5,8 +5,10 @@
   "mixins": [
   ],
   "client": [
-    "ItemModelVanishMixin",
-    "ItemShadowHitBoxVanishMixin"
+    "ArrowEntityRenderMixin",
+    "ArrowInPlayerRenderMixin",
+    "ItemModelRenderMixin",
+    "ItemShadowHitBoxRenderMixin"
   ],
   "injectors": {
     "defaultRequire": 1
